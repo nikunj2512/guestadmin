@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43945dd8-2462-416a-8e63-786184aa3f20" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portalConfig.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portalConfig.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#4;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\n\&lt;\!doctype html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\, shrink\-to\-fit\=no\&quot;\&gt;\n    \&lt;meta name\=\&quot;description\&quot; content\=\&quot;\&quot;\&gt;\n    \&lt;meta name\=\&quot;author\&quot; content\=\&quot;\&quot;\&gt;\n    \&lt;link rel\=\&quot;icon\&quot; href\=\&quot;\.\.\/\.\.\/\.\.\/\.\.\/favicon\.ico\&quot;\&gt;\n\n    \&lt;title\&gt;Portal Configuration\&lt;\/title\&gt;\n\n    \&lt;\!\-\- Bootstrap core CSS \-\-\&gt;\n    \&lt;link href\=\&quot;css\/bootstrap\.min\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\n    \&lt;\!\-\- Custom styles for this template \-\-\&gt;\n    \&lt;link href\=\&quot;css\/sticky\-footer\-navbar\.css\&quot; rel\=\&quot;stylesheet\&quot;\&gt;\n\&lt;\/head\&gt;\n\n\&lt;body\&gt;\n\n\&lt;header\&gt;\n    \&lt;\!\-\- Fixed navbar \-\-\&gt;\n    \&lt;nav class\=\&quot;navbar navbar\-expand\-md navbar\-dark fixed\-top bg\-dark\&quot;\&gt;\n        \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\#\&quot;\&gt;Admin Configuration Portal\&lt;\/a\&gt;\n    \&lt;\/nav\&gt;\n\&lt;\/header\&gt;\n\n\&lt;\!\-\- Begin page content \-\-\&gt;\n\&lt;main role\=\&quot;main\&quot; class\=\&quot;container\&quot;\&gt;\n    \&lt;h1 class\=\&quot;mt\-5\&quot;\&gt;Welcome to Admin Configuration Portal\, \&lt;script\&gt;document\.write\(localStorage\.getItem\(\&quot;username\&quot;\)\)\;\&lt;\/script\&gt;\&lt;\/h1\&gt;\n        \&lt;div class\=\&quot;py\-5 text\-center\&quot;\&gt;\n            \&lt;img class\=\&quot;d\-block mx\-auto mb\-4\&quot; src\=\&quot;https\:\/\/getbootstrap\.com\/docs\/4\.0\/assets\/brand\/bootstrap\-solid\.svg\&quot; alt\=\&quot;\&quot; width\=\&quot;72\&quot; height\=\&quot;72\&quot;\&gt;\n            \&lt;h2\&gt;Configuration form\&lt;\/h2\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;col\-md\-8 order\-md\-2\&quot;\&gt;\n                \&lt;form class\=\&quot;needs\-validation\&quot; novalidate onsubmit\=\&quot;return deploy\(\'wlc\'\, \'ssid\'\, \'portal\'\)\&quot;\&gt;\n                    \&lt;div class\=\&quot;form\-group row\&quot;\&gt;\n                        \&lt;label for\=\&quot;wlc\&quot; class\=\&quot;col\-sm\-2 col\-form\-label\&quot;\&gt;WLC\&lt;\/label\&gt;\n                        \&lt;div class\=\&quot;col\-sm\-10\&quot;\&gt;\n                            \&lt;input type\=\&quot;text\&quot; class\=\&quot;form\-control\&quot; id\=\&quot;wlc\&quot; placeholder\=\&quot;WLC\&quot;\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/div\&gt;\n                    \&lt;div class\=\&quot;form\-group row\&quot;\&gt;\n                        \&lt;label for\=\&quot;ssid\&quot; class\=\&quot;col\-sm\-2 col\-form\-label\&quot;\&gt;SSID\&lt;\/label\&gt;\n                        \&lt;div class\=\&quot;col\-sm\-10\&quot;\&gt;\n                            \&lt;input type\=\&quot;text\&quot; class\=\&quot;form\-control\&quot; id\=\&quot;ssid\&quot; placeholder\=\&quot;SSID\&quot;\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/div\&gt;\n\n                    \&lt;div class\=\&quot;form\-group row\&quot;\&gt;\n                        \&lt;label for\=\&quot;portal\&quot; class\=\&quot;col\-sm\-2 col\-form\-label\&quot;\&gt;Portal Name\&lt;\/label\&gt;\n                        \&lt;div class\=\&quot;col\-sm\-10\&quot;\&gt;\n                            \&lt;input type\=\&quot;text\&quot; class\=\&quot;form\-control\&quot; id\=\&quot;portal\&quot; placeholder\=\&quot;Portal Name\&quot;\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/div\&gt;\n\n                    \&lt;div class\=\&quot;form\-group row\&quot;\&gt;\n                        \&lt;label for\=\&quot;staticEmail\&quot; class\=\&quot;col\-sm\-2 col\-form\-label\&quot;\&gt;Customization\&lt;\/label\&gt;\n                        \&lt;div class\=\&quot;col\-sm\-10\&quot;\&gt;\n                            \&lt;a href\=\&quot;https\:\/\/isepb\.cisco\.com\/\#\/\&quot; class\=\&quot;form\-control\-plaintext\&quot; id\=\&quot;staticEmail\&quot; target\=\&quot;_blank\&quot;\&gt;\n                                https\:\/\/isepb\.cisco\.com\/\#\/\n                            \&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/div\&gt;\n\n                    \&lt;button class\=\&quot;btn btn\-primary mb\-2\&quot; type\=\&quot;submit\&quot;\&gt;Deploy\&lt;\/button\&gt;\n                \&lt;\/form\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n\&lt;\/main\&gt;\n\n\n\n\&lt;footer class\=\&quot;footer\&quot;\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;span class\=\&quot;text\-muted\&quot;\&gt;\&amp;copy\; Cisco 2017\-2018\&lt;\/span\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/footer\&gt;\n\n\&lt;\!\-\- Bootstrap core JavaScript\n\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\= \-\-\&gt;\n\&lt;\!\-\- Placed at the end of the document so the pages load faster \-\-\&gt;\n\&lt;script src\=\&quot;js\/jquery\.js\&quot; type\=\&quot;text\/javascript\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script\&gt;\n    \&lt;\/script\&gt;\n\&lt;script src\=\&quot;https\:\/\/cdn\.jsdelivr\.net\/npm\/gasparesganga\-jquery\-loading\-overlay\@2\.1\.4\/dist\/loadingoverlay\.min\.js\&quot; crossorigin\=\&quot;anonymous\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;js\/popper\.min\.js\&quot; type\=\&quot;text\/javascript\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;script src\=\&quot;js\/bootstrap\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;\n</find>
+      <find>agileProject</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>guestadmin</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/signin.css" />
+        <option value="$PROJECT_DIR$/css/sticky-footer-navbar.css" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/portalConfig.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="guestadmin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guestadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nikuagga\WebstormProjects\agileProject\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/guestadmin/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/agileProject/index.html" />
+    <configuration name="portalConfig.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/agileProject/portalConfig.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.portalConfig.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.portalConfig.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43945dd8-2462-416a-8e63-786184aa3f20" name="Default" comment="" />
+      <created>1530130115829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530130115829</updated>
+      <workItem from="1530130118510" duration="578000" />
+      <workItem from="1530130716187" duration="560000" />
+      <workItem from="1530131310947" duration="13689000" />
+      <workItem from="1530206197823" duration="506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15333000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538004" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538004" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="46" lean-forward="true" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portalConfig.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="83" selection-start-line="30" selection-start-column="83" selection-end-line="30" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#4;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/sticky-footer-navbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portalConfig.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#4;n#div#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
